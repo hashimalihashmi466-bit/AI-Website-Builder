@@ -22,6 +22,44 @@ An AI-driven website builder capable of autonomously generating full-stack websi
 ---
 
 ### 📸 Screenshots
+## 🖼️ Screenshots
+
+### 🧠 TreviX AI Website Builder Interface  
+The main interface where users describe their project idea and let TreviX AI automatically design, structure, and deploy the website.
+
+<p align="center">
+  <img src="https://github.com/hashimalihashmi466-bit/AI-Website-Builder/blob/main/image_2025-10-29_191509300.png?raw=true" width="90%"/>
+</p>
+
+---
+
+### 🍔 Example Generated Website – *Burger Bliss*  
+TreviX AI generated a complete restaurant website from a single prompt — including design, content, and structure.
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/hashimalihashmi466-bit/AI-Website-Builder/blob/main/image_2025-10-29_191542335.png?raw=true" width="95%"/><br/>
+        <sub><b>🏠 Home Page</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/hashimalihashmi466-bit/AI-Website-Builder/blob/main/image_2025-10-29_191605554.png?raw=true" width="95%"/><br/>
+        <sub><b>📖 About Section</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/hashimalihashmi466-bit/AI-Website-Builder/blob/main/image_2025-10-29_191638248.png?raw=true" width="95%"/><br/>
+        <sub><b>🍟 What We Offer</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/hashimalihashmi466-bit/AI-Website-Builder/blob/main/image_2025-10-29_191654198.png?raw=true" width="95%"/><br/>
+        <sub><b>💬 Customer Testimonials</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 ---
